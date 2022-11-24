@@ -1,0 +1,12 @@
+C:\Users\ComputerLab4PC1\source\repos\LaudicoStream\obj\Debug\LaudicoStream.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\LaudicoStream\obj\Debug\LaudicoStream.FrmLab1.resources
+C:\Users\ComputerLab4PC1\source\repos\LaudicoStream\obj\Debug\LaudicoStream.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\LaudicoStream\obj\Debug\LaudicoStream.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\LaudicoStream\obj\Debug\LaudicoStream.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\LaudicoStream\bin\Debug\LaudicoStream.exe.config
+C:\Users\ComputerLab4PC1\source\repos\LaudicoStream\bin\Debug\LaudicoStream.exe
+C:\Users\ComputerLab4PC1\source\repos\LaudicoStream\bin\Debug\LaudicoStream.pdb
+C:\Users\ComputerLab4PC1\source\repos\LaudicoStream\obj\Debug\LaudicoStream.exe
+C:\Users\ComputerLab4PC1\source\repos\LaudicoStream\obj\Debug\LaudicoStream.pdb
+C:\Users\ComputerLab4PC1\source\repos\LaudicoStream\obj\Debug\LaudicoStream.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\source\repos\LaudicoStream\obj\Debug\LaudicoStream.FrmStudentRecord.resources
